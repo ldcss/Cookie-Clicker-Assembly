@@ -1,0 +1,4 @@
+#!/bin/bash
+
+sudo make all; sudo qemu-system-x86_64 -fda disk.img 
+
