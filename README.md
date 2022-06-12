@@ -1,4 +1,4 @@
 # Cookie Clicker Assembly
  bootloader project for Infrastructure Software discipline
- made with: José Marcondes (mallocaholic) and Pedro Fernandes (fernandesbarreto)
-![cookie_clicker](https://user-images.githubusercontent.com/51211994/173255653-1f54f73d-b0aa-48ff-b7e2-ee70dba4ec53.png)
+ made with: José Marcondes (mallocaholic) and Pedro Fernandes (fernandesbarreto) 
+![cookie-clicker](https://user-images.githubusercontent.com/51211994/173255792-0b0ab9bc-5586-4e31-b385-8bd3b9b6a315.gif)
